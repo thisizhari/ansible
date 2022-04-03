@@ -1,0 +1,5 @@
+172.31.36.182
+172.31.7.149 
+[appserver]
+172.31.36.182 java_package=openjdk-11-jdk
+172.31.7.149 java_package=java-11-openjdk
