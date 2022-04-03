@@ -1,5 +1,5 @@
 all:
-hosts:
-localhosts:
-172.31.7.149
-172.31.36.182
+  hosts:
+       localhosts:
+        172.31.7.149
+        172.31.36.182
