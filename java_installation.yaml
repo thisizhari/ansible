@@ -1,7 +1,7 @@
 ---
 -name: install java
     become: yes
-    hosts:  all
+    hosts:  appserver
     tasks: 
     -name : install openjdk 11
     package: 
